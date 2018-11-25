@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cgi-bin
+Disallow: /userfiles/upload/files
+
+Sitemap: https://pcompstart/sitemap.xml
+Host: https://pcompstart

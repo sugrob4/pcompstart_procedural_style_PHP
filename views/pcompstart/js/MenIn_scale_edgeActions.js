@@ -1,0 +1,1 @@
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;(function(symbolName){})("stage");(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",4000,function(sym,e){sym.play("scale1");});})("scale");})(jQuery,AdobeEdge,"MenIn_scale");
